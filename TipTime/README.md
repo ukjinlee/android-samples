@@ -1,1 +1,3 @@
-https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-1
+# Tip Calculator
+
+<img src="https://github.com/ukjinlee/android-samples/blob/main/images/tip-time.png" alt="Screenshot" height=600>
