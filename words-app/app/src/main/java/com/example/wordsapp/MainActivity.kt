@@ -37,11 +37,6 @@ class MainActivity : AppCompatActivity() {
 
         val binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
-        recyclerView = binding.recyclerView
-        recyclerView.adapter = LetterAdapter()
-        // Sets the LinearLayoutManager of the recyclerview
-        chooseLayout()
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
